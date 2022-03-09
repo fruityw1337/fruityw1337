@@ -1,6 +1,6 @@
 ### Hi there, I'm Vlad 👋
 
-- 🌱 I’m currently working as AQA Engineer at ADF Solutions 🔥
+- 🌱 I’m currently working as Vue Frontend Developer/AQA Engineer at ADF Solutions 🔥
 
 ### Connect with me:
 
